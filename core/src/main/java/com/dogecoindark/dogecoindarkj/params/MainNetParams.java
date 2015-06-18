@@ -31,15 +31,15 @@ public class MainNetParams extends NetworkParameters {
         interval = INTERVAL;
         targetTimespan = TARGET_TIMESPAN;
         maxTarget = Utils.decodeCompactBits(0x1d00ffffL);
-        dumpedPrivateKeyHeader = 183;
+        dumpedPrivateKeyHeader = 158;
         addressHeader = 30;
         p2shHeader = 33;
         acceptableAddressCodes = new int[] { addressHeader, p2shHeader };
         port = 20102;
         packetMagic= 0xe6e8e9e5L;
         genesisBlock.setDifficultyTarget(0x1d00ffffL);
-        genesisBlock.setTime(1412878964L);
-        genesisBlock.setNonce(1473191L);
+        genesisBlock.setTime(1345084287L);
+        genesisBlock.setNonce(2179302059L);
         id = ID_MAINNET;
         spendableCoinbaseDepth = 500;
         String genesisHash = genesisBlock.getHashAsString();
