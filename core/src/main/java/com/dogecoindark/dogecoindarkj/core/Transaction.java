@@ -448,6 +448,14 @@ public class Transaction extends ChildMessage implements Serializable {
         return true;
     }
 
+    public long getTime() {
+    	return time;
+    }
+    
+    public void setTime(long nTime) {
+    	this.time = nTime;
+    }
+    
     /**
      * Returns the earliest time at which the transaction was seen (broadcast or included into the chain),
      * or the epoch if that information isn't available.
