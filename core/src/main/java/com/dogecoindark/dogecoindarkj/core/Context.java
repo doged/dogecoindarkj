@@ -1,4 +1,4 @@
-dogecoindark com.dogecoindark.dogecoindarkj.core;
+package com.dogecoindark.dogecoindarkj.core;
 
 /**
  * The Context object holds various objects that are scoped to a specific instantiation of bitcoinj for a specific
