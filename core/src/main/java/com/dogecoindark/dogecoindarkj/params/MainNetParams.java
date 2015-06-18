@@ -38,8 +38,8 @@ public class MainNetParams extends NetworkParameters {
         port = 20102;
         packetMagic= 0xe6e8e9e5L;
         genesisBlock.setDifficultyTarget(0x1d00ffffL);
-        genesisBlock.setTime(1345084287L);
-        genesisBlock.setNonce(2179302059L);
+        genesisBlock.setTime(1412878964L);
+        genesisBlock.setNonce(1473191L);
         id = ID_MAINNET;
         spendableCoinbaseDepth = 500;
         String genesisHash = genesisBlock.getHashAsString();
