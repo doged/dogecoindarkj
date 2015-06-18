@@ -104,6 +104,7 @@ public class Transaction extends ChildMessage implements Serializable {
 
     // These are serialized in both bitcoin and java serialization.
     private long version;
+    private long time;
     private ArrayList<TransactionInput> inputs;
     private ArrayList<TransactionOutput> outputs;
 
