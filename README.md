@@ -59,6 +59,7 @@ Now you are ready to [follow the tutorial](https://bitcoinj.github.io/getting-st
 ### Feel free to donate to development! 
 
 DOGED: DPNC2H2pYUCSebQ992GyeRTRuWw3hCTBwD
+
 BTC: 1N8fxvJTzDNpANGoV8JMQABoVnymnQFK92
 
 [![Visit our IRC Chat!](https://kiwiirc.com/buttons/irc.freenode.net/dogecoindark.png)](https://kiwiirc.com/client/irc.freenode.net/?nick=doged|?&theme=cli#dogecoindark)
