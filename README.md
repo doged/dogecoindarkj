@@ -1,3 +1,5 @@
+![dogecoindarkj](https://raw.githubusercontent.com/doged/dogecoindarkj/master/dogecoindarkj.jpg)
+
 ### Welcome to dogecoindarkj
 
 The dogecoindarkj library is a Java implementation of the DogecoinDark protocol, which allows it to maintain a wallet and send/receive transactions without needing a local copy of the DogecoinDark Core Wallet. It comes with full documentation and some example apps showing how to use it.
@@ -53,3 +55,5 @@ more info on this technique.
 ### Where next?
 
 Now you are ready to [follow the tutorial](https://bitcoinj.github.io/getting-started).
+
+[![Visit our IRC Chat!](https://kiwiirc.com/buttons/irc.freenode.net/dogecoindark.png)](https://kiwiirc.com/client/irc.freenode.net/?nick=doged|?&theme=cli#dogecoindark)
