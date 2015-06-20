@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.dogecoindarkdark.dogecoindarkdarkj.core;
+package com.dogecoindark.dogecoindarkj.core;
 
-import com.dogecoindarkdark.dogecoindarkdarkj.params.MainNetParams;
-import com.dogecoindarkdark.dogecoindarkdarkj.params.TestNet3Params;
+import com.dogecoindark.dogecoindarkj.params.MainNetParams;
+import com.dogecoindark.dogecoindarkj.params.TestNet3Params;
 import org.junit.Test;
 
-import static com.dogecoindarkdark.dogecoindarkdarkj.core.Utils.HEX;
+import static com.dogecoindark.dogecoindarkj.core.Utils.HEX;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotSame;
 import static org.junit.Assert.assertThat;
