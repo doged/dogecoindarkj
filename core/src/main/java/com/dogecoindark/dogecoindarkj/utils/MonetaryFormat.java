@@ -55,11 +55,11 @@ public final class MonetaryFormat {
     /** Standard format for fiat amounts. */
     public static final MonetaryFormat FIAT = new MonetaryFormat().shift(0).minDecimals(2).repeatOptionalDecimals(2, 1);
     /** Currency code for base 1 dogecoindark. */
-    public static final String CODE_BTC = "DOGE";
+    public static final String CODE_BTC = "DOGED";
     /** Currency code for base 1/1000 dogecoindark. */
-    public static final String CODE_MBTC = "mDOGE";
+    public static final String CODE_MBTC = "mDOGED";
     /** Currency code for base 1/1000000 dogecoindark. */
-    public static final String CODE_UBTC = "µDOGE";
+    public static final String CODE_UBTC = "µDOGED";
 
     private final char negativeSign;
     private final char positiveSign;
